@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294" height="127" viewBox="0 0 294 127">
+  <defs>
+    <filter id="JILEVENT" x="0" y="0" width="294" height="127" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#JILEVENT)">
+    <text id="JILEVENT-2" data-name="JILEVENT" transform="translate(42 70)" fill="#fff" font-size="30" font-family="Poppins-ExtraBold, Poppins" font-weight="800" letter-spacing="0.344em"><tspan x="0" y="0">JILEVENT</tspan></text>
+  </g>
+</svg>
